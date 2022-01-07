@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jdaniR/redux-demo#readme",
   "dependencies": {
-    "redux": "^4.1.2"
+    "redux": "^4.1.2",
+    "redux-logger": "^3.0.6"
   }
 }
